@@ -1,0 +1,2 @@
+# prjct
+edumaster ai
